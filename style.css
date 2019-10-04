@@ -1,0 +1,41 @@
+body {
+  background-color: #FCEBB6;
+}
+header{
+background-color: #D2B48C
+
+}
+
+main{
+background-color: #FEF6C2
+
+
+}
+
+nav{
+background-color:black;
+color: #D2B48C
+
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+ul{
+font-size: 15px;
+
+}
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #D2B48C
+}
